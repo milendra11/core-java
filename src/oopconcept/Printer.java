@@ -2,14 +2,14 @@ package oopconcept;
 
 public class Printer {
 
-    string brand;
-    string name;
-    string modelNumber;
-    string type;
-    string series;
+    String brand;
+    String name;
+    String modelNumber;
+    String type;
+    String series;
     boolean hasWifi;
     boolean isColorPrinter;
-    string color;
+    String color;
     int trayCapacity;
     int productHeight;
     int productWidth;

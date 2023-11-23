@@ -2,12 +2,12 @@ package oopconcept;
 
 public class Monitor {
 
-    string brand;
-    string modelName;
-    string type;
-    string size;
-    string refreshRate;
-    string resolution;
+    String brand;
+    String modelName;
+    String type;
+    String size;
+    String refreshRate;
+    String resolution;
     boolean hasHDR;
     float price;
     boolean isCurved;

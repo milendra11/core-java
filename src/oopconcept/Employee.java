@@ -1,21 +1,21 @@
 package oopconcept;
 
 public class Employee {
-    string employeeCode;
-    string firstName;
-    string middleName;
-    string lastName;
-    string dateOfBirth;
+    String employeeCode;
+    String firstName;
+    String middleName;
+    String lastName;
+    String dateOfBirth;
     short age;
-    string ssn;
-    string address;
+    String ssn;
+    String address;
     int phoneNumber;
     boolean isMarried;
-    string department;
-    string positionTitle;
+    String department;
+    String positionTitle;
     float salary;
-    string hireDate;
+    String hireDate;
 
-    final string COMPANY_NAME;
+    final String COMPANY_NAME="SMS";
 
 }

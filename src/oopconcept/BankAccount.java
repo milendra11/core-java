@@ -20,5 +20,9 @@ public class BankAccount {
 
     //Behaviour
 
+    public static void main(String[] args) {
+        BankAccount tamanAccount = new BankAccount();
+    }
+
 
 }
